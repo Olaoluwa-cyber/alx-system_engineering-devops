@@ -1,4 +1,3 @@
-#!/usr/bin/pup
 # Install n especific version of flask (2.1)
 package {'python3.8':
   ensure   => '3.8.10',
